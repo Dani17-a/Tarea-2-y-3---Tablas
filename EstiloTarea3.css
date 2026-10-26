@@ -1,0 +1,29 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+th:first-child {
+    background-color: blue;
+}
+th:nth-child(2) {
+    background-color: aqua;
+}
+th:nth-child(3) {
+    background-color: aqua;
+}
+th .HOLA {
+    background-color: black;
+}
+th:nth-child(4) {
+    background-color:blueviolet;
+}
+th:nth-child(5) {
+    background-color:blueviolet;
+}
+th:nth-child(6) {
+    background-color:blueviolet;
+}

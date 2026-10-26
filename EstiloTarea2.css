@@ -1,0 +1,36 @@
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+    
+}
+table th {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+.LMAR{
+    background-color: rgb(207, 129, 11);
+}
+.SINF {
+    background-color: rgb(110, 63, 155);
+}
+.BD {
+    background-color: pink;
+}
+.IPE {
+    background-color: rgba(21, 113, 136, 0.432);
+}
+.ING {
+    background-color: green;
+}
+.CD {
+    background-color: violet;
+}
+.PROG {
+    background-color: rgb(143, 129, 9);
+}
+.SSP {
+    background-color: yellow;
+}
+.RECREO {
+    background-color: chocolate;
+}
